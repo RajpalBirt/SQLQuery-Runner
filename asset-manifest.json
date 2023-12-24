@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SQLQuery-Runner/static/css/main.4d932cd4.css",
+    "main.js": "/SQLQuery-Runner/static/js/main.87f81d5c.js",
+    "static/js/787.6522bf8b.chunk.js": "/SQLQuery-Runner/static/js/787.6522bf8b.chunk.js",
+    "static/media/products.csv": "/SQLQuery-Runner/static/media/products.6d62ea227031e8d81c61.csv",
+    "index.html": "/SQLQuery-Runner/index.html",
+    "main.4d932cd4.css.map": "/SQLQuery-Runner/static/css/main.4d932cd4.css.map",
+    "main.87f81d5c.js.map": "/SQLQuery-Runner/static/js/main.87f81d5c.js.map",
+    "787.6522bf8b.chunk.js.map": "/SQLQuery-Runner/static/js/787.6522bf8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d932cd4.css",
+    "static/js/main.87f81d5c.js"
+  ]
+}
