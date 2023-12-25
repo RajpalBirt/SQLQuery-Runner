@@ -14,7 +14,7 @@ The application fetches CSV data, parses it, and allows users to execute SQL que
 
 3. Page Load Time
 
-The current page load time for the SQLQuery Runner is approximately 406ms. 
+The current page load time for the SQLQuery Runner is approximately 104ms. 
 This measurement was obtained using the [Pingdom Tools](https://tools.pingdom.com/).
 
 
